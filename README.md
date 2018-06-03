@@ -1,0 +1,2 @@
+# wechat
+command chat tool
